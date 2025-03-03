@@ -3,6 +3,7 @@
 const int trigPin = 9;
 const int echoPin = 10;
 const int swPin = 2;
+
 const int dist = 13;
 const int buttonPin = 2;
 float duration, distance;
